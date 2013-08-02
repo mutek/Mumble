@@ -1,0 +1,2 @@
+export LC_ALL=C
+qmake -set prefix=/home/Mumble/.App/ioMumbleGIT02082013-Debian7/Linux-ia32 -recursive main.pro
